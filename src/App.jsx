@@ -8,7 +8,7 @@ function App() {
   const countries = [
     { name: 'New York', offset: -5 },
     { name: 'London', offset: 0 },
-    { name: 'India', offset: 5 },
+    { name: 'India', offset: 5.6 },
   ];
 
   useEffect(() => {
